@@ -1,8 +1,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Âm nhạc</string>
-    <string name="queue">Hàng đợi</string>
-    <string name="library">Thư viện</string>
-    <string name="hello_blank_fragment">Xin chào Fragment trống</string>
+    <string name="app_name">المسيقى</string>
+    <string name="queue">قائمة الانتظار</string>
+    <string name="library">المكتبة</string>
+    <string name="hello_blank_fragment">مرحبا</string>
     <string name="start_marker">Start marker</string>
     <string name="end_marker">End marker</string>
     <string name="rewind">Rewind</string>

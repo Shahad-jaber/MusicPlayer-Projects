@@ -38,10 +38,10 @@
     <string name="number_songs_add_queue"><xliff:g example="1" id="number">%d</xliff:g> songs added to the queue.</string>
     <string name="number_song_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> song added to playlist.</string>
     <string name="number_songs_add_playlist"><xliff:g example="1" id="number">%d</xliff:g> songs added to playlist.</string>
-    <string name="combine_two_strings" translatable="false">%1$s | %2$s</string>
-    <string name="duration_format" translatable="false"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
-    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
-    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+    <string name="combine_two_strings">%1$s | %2$s</string>
+    <string name="duration_format"><xliff:g id="hours">%1$s</xliff:g> <xliff:g id="minutes">%2$s</xliff:g></string>
+    <string name="durationformatshort"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
     <string name="playlist_last_added">Last Added</string>
     <string name="playlist_recently_played">Recently Played</string>
     <string name="playlist_top_tracks">My Top Tracks</string>
@@ -294,15 +294,15 @@
     <string name="clear_action">Clear</string>
     <string name="new_playlist_title">New playlist</string>
     <string name="create_action">Create</string>
-    <string name="playlist_name_empty">Playlist name</string>
+    <string name="playlist_name_empty" translatable="false">Playlist name</string>
     <string name="add_playlist_title">Choose playlist to add</string>
     <string name="action_new_playlist">Create new playlist…</string>
     <string name="play_preview">Play preview</string>
     <string name="see_more_about">See more about</string>
-    <string name="rename_playlist_title">Rename playlist</string>
-    <string name="delete_playlist_title">Delete playlist</string>
-    <string name="delete_playlists_title">Delete playlists</string>
-    <string name="clear_playlist_title">Clear playlist</string>
+    <string name="rename_playlist_title" translatable="false">Rename playlist</string>
+    <string name="delete_playlist_title" translatable="false">Delete playlist</string>
+    <string name="delete_playlists_title" translatable="false">Delete playlists</string>
+    <string name="clear_playlist_title" translatable="false">Clear playlist</string>
     <string name="save_playlist_title">Save as file</string>
     <string name="save_playlists_title">Save as files</string>
     <string name="english">English</string>
