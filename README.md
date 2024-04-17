@@ -20,6 +20,7 @@ Download apk file here [Music player v1.3](https://github.com/Shahad-jaber/Music
 https://github.com/Shahad-jaber/Music-Player.git
 ```
 ## Screenshots
+<html>
 </br>
 <div align="center">
    <table align="center" border="0" >
@@ -49,7 +50,7 @@ src="https://user-images.githubusercontent.com/33343210/61611561-45e8f180-ac86-1
 </br>
 
 
-
+</html>
 
 ### License
 
