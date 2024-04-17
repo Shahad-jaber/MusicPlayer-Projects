@@ -12,10 +12,7 @@
 * Learn your hobby, automatically create new playlist
 * etc
 
-### Installing
-The app will be available in Google Play Store soon.
-```
-Comming soon
+
 ```
 ### APK
 Download apk file here [Music player v1.3](https://github.com/Shahad-jaber/Music-Player.git)
