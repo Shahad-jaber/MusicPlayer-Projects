@@ -11,8 +11,6 @@
 * Metadata editor
 * Learn your hobby, automatically create new playlist
 * etc
-
-
 ```
 ### APK
 Download apk file here [Music player v1.3](https://github.com/Shahad-jaber/Music-Player.git)
@@ -20,7 +18,6 @@ Download apk file here [Music player v1.3](https://github.com/Shahad-jaber/Music
 https://github.com/Shahad-jaber/Music-Player.git
 ```
 ## Screenshots
-<html>
 </br>
 <div align="center">
    <table align="center" border="0" >
