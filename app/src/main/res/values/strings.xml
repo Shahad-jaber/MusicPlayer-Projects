@@ -1,4 +1,4 @@
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Music</string>
     <string name="queue">Queue</string>
     <string name="library">Library</string>
@@ -254,7 +254,7 @@
     <string name="saving_changes">Saving changes</string>
     <string name="created_playlist_x">Created playlist %1$s.</string>
     <string name="playlist_exists">Playlist %1$s already exists.</string>
-    <string name="could_not_create_playlist">Couldn\u2019t create playlist.</string>
+    <string name="could_not_create_playlist" tools:ignore="MissingTranslation">Couldn\u2019t create playlist.</string>
     <string name="delete_playlist_x"><![CDATA[Delete the playlist <b>%1$s</b>?]]></string>
     <string name="clear_playlist_x"><![CDATA[Clear the playlist <b>%1$s</b>? This can\u2019t be undone!]]></string>
     <string name="inserted_x_songs_into_playlist_x">Inserted %1$d songs into the playlist %2$s.</string>
@@ -262,7 +262,7 @@
     <string name="grant_permission_order_description">Music ® needs storage permission to access your music library. Without this permission, the application couldn\'t run properly.</string>
     <string name="access_external_storage">Access External Storage</string>
     <string name="allow_access">Allow Access</string>
-    <string name="fill_this_field_by_lyric">Fill this field by lyric</string>
+    <string name="fill_this_field_by_lyric" translatable="false">Fill this field by lyric</string>
     <string name="save_as">Save as</string>
     <string name="unknown_genres">Unknown Genres</string>
     <string name="lyric">Lyric</string>
